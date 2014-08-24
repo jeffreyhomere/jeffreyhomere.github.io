@@ -1,0 +1,167 @@
+body {
+	padding-top: 50px;
+	padding-bottom:0px;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: #ffcc66;
+}
+
+.jumbotron {
+	text-align:center; 
+	/*background-image: url('../images/GainzGround.jpg');*/
+	background-color:#333333;
+	margin:0;
+	padding-top:175px;
+	padding-bottom:175px;
+	font-family: 'Arvo', courier, serif;
+}
+
+.btn-lg{
+
+	font-size:36px;
+}
+
+.jumbotron h1{
+
+	font-family: 'Arvo', courier, serif;
+	margin-top: 20px;
+	margin-bottom:25px;
+	color:#ffffff;
+	/*color: #ffcc66;*/
+}
+
+.jumbotron p{
+
+	margin-bottom:30px;
+	font-weight:100;
+	padding:0px 50px;
+	/*color: #ffcc66;*/
+	color:#ffffff;
+	line-height:170%;
+}
+
+ul.nav{
+	font-family: 'Arvo', courier, serif;
+	font-size:13px;
+}
+
+h2 {
+			color:#ffffff;
+			text-align:center;
+			font-family:'Arvo', 'courier', 'serif';
+	}
+	
+	.homepage{
+					text-align:center;
+		}
+		
+		.homepage h2{
+			
+								font-size:30px;
+			
+			}
+			
+			.homepage h3{
+									font-size:22px;
+				}
+				.homepage h3, .homepage h2 {
+				
+									text-transform:uppercase;
+									color:#ffffff;
+					
+				}
+.homepage p{
+	font-family:'Arvo', 'courier', 'serif';
+	font-size:14px;
+	font-weight: 100;
+}
+a:hover{
+	color:white;
+}	
+
+#simplyMe{
+	background-color:#666666;
+	padding-bottom:20px;
+}
+
+.homepage hr{
+	border-top: 1px solid #ffcc66;
+	width:160px;
+	margin-top:15px;
+}
+
+
+.col-md-4 p{
+	color:#ffffff;
+	font-family:'Arvo', 'courier', 'serif';
+	font-weight:200;
+}
+
+.resume{
+
+	width:900px;
+	text-align:left;
+
+}
+
+.resume h3{
+	font-size:20px;
+	color:#ffcc33;
+	text-transform: uppercase;
+	font-family:'Arvo', 'courier', 'serif';
+
+}
+
+.resume h2{
+	text-align: left;
+}
+
+.resume h4{
+	color:#ffffff;
+	font-weight:thick;
+	font-family:'Arvo', 'courier', 'serif';
+
+}
+
+.resume p{
+	font-family:'Arvo', 'courier', 'serif';
+	color:#ffffff;
+}
+
+.resume li{
+	font-family:'Arvo', 'courier', 'serif';
+	color:#ffcc66;
+}
+
+.resume li span{
+	color:#ffffff;
+}
+
+.resume hr{
+	width: 100%;
+}
+
+footer{
+	text-align: center;
+	background-color: #101010;
+	color: #ffcc66;
+	font-size: 17px;
+	padding-top: 20px;
+	padding-bottom: 50px;
+	width:100%;
+}
+
+#parabout{
+	padding:0 160px;
+	text-align:justify;
+}
+
+#aboutHR{
+	width:425px;
+}
+
+
+
+
+				

@@ -1,0 +1,128 @@
+body {
+	padding-top: 50px;
+	padding-bottom:0px;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: #ffcc66;
+}
+
+.jumbotron {
+	text-align:center; 
+	/*background-image: url('../images/GainzGround.jpg');*/
+	background-color:#333333;
+	margin:0;
+	padding-top: 50px;
+	padding-bottom: 30px;
+}
+
+.btn-lg{
+
+	font-size:36px;
+}
+
+.jumbotron h1{
+
+	font-family: 'Arvo', courier, serif;
+	margin-top: 20px;
+	margin-bottom:25pxpx;
+	color:#ffffff;
+
+	/*color: #ffcc66;*/
+}
+
+.jumbotron p{
+
+	margin-bottom:30px;
+	font-weight:lighter;
+	padding:0px 20px;
+	/*color: #ffcc66;*/
+	color:#ffffff;
+	font-size:15px;
+}
+
+ul.nav{
+	font-family: 'Arvo', courier, serif;
+	font-size:13px;
+}
+
+h2 {
+			color:#ffffff;
+			text-align:center;
+			font-family:'Arvo', 'courier', 'serif';
+	}
+	
+	.homepage{
+					text-align:center;
+		}
+		
+		.homepage h2{
+			
+								font-size:30px;
+			
+			}
+			
+			.homepage h3{
+									font-size:22px;
+				}
+				.homepage h3, .homepage h2 {
+				
+									text-transform:uppercase;
+									color:#ffffff;
+									font-weight:600; 
+					
+				}
+a:hover{
+	color:white;
+}	
+
+#simplyMe{
+	background-color:#666666;
+	padding-bottom:20px;
+}
+
+.homepage hr{
+	border-top: 1px solid #ffcc66;
+	width:160px;
+	margin-top:15px;
+}
+
+footer{
+	text-align:center;
+	background-color:#101010;
+	color:#ffcc66;
+	font-size:17px;
+	padding-top:20px;
+	padding-bottom:30px;
+}
+
+.col-md-4 p{
+	color:#ffffff;
+	font-family:'Arvo', 'courier', 'serif';
+	font-weight:200;
+}
+
+#android{
+	color:#66ff00;
+}
+
+#bomb{
+	color:#101010;
+}
+
+#inbox{
+	color:#ffffff;
+}
+
+ @media (max-width: 768px) { 
+
+ 	#Who{
+ 		font-size:45px
+ 	}
+
+ }
+
+ @media(max-width: 480px){
+		
+ }
+				

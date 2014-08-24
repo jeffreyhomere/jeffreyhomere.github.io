@@ -1,0 +1,182 @@
+body {
+	padding-top: 50px;
+	padding-bottom:0px;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+	color: #ffcc66;
+}
+
+.jumbotron {
+	text-align:center; 
+	/*background-image: url('../images/GainzGround.jpg');*/
+	background-color:#333333;
+	margin:0;
+	padding-bottom:140px;
+}
+
+.btn-lg{
+
+	font-size:36px;
+}
+
+.jumbotron h1{
+
+	font-family: 'Arvo', courier, serif;
+	margin-top: 20px;
+	margin-bottom:25px;
+	color:#ffffff;
+	/*color: #ffcc66;*/
+	font-size:55px;
+}
+
+#MainPic{
+		width:200px;
+		height:200px;
+	}
+
+
+.jumbotron p{
+
+	margin-bottom:30px;
+	font-weight:lighter;
+	padding:0px 50px;
+	/*color: #ffcc66;*/
+	color:#ffffff;
+	font-size:17px;
+	font-family: 'Arvo', courier, serif;
+}
+
+ul.nav{
+	font-family: 'Arvo', courier, serif;
+	font-size:15px;
+}
+
+h2 {
+			color:#ffffff;
+			text-align:center;
+			font-family:'Arvo', 'courier', 'serif';
+	}
+	
+	.homepage{
+					text-align:center;
+		}
+		
+		.homepage h2{
+			
+								font-size:35px;
+			
+			}
+			
+			.homepage h3{
+									font-size:22px;
+				}
+				.homepage h3, .homepage h2 {
+				
+									text-transform:uppercase;
+									color:#ffffff;
+					
+				}
+a:hover{
+	color:white;
+}	
+
+#simplyMe{
+	background-color:#666666;
+	padding-bottom:30px;
+
+}
+
+.homepage hr{
+	border-top: 1px solid #ffcc66;
+	width:215px;
+	margin-top:15px;
+}
+
+footer{
+	text-align:center;
+	background-color:#101010;
+	color:#ffcc66;
+	font-size:17px;
+	padding-top:15px;
+	padding-bottom:15px;
+}
+
+.col-md-4 p{
+	color:#ffffff;
+	font-family:'Arvo', 'courier', 'serif';
+	font-weight:200;
+	font-size:14px;
+}
+
+#Who{
+	padding-bottom:30px;
+}
+
+#mission{
+	padding-top:30px;
+	font-family:'Arvo', 'courier', 'serif';
+
+}
+
+#KnowMe{
+
+	padding-top:20px;
+}
+
+#info{
+	padding-bottom:15px;
+}
+
+
+
+
+
+ @media(max-width: 768px){
+	
+	#MainPic{
+		max-width: 30%;
+		max-height: 40%;
+	}
+
+	.jumbotron{
+
+		padding-top:15px;
+	}
+
+	#Who{
+		font-size:60px;
+	}
+
+	#info hr{
+		width:200px;
+	}
+	
+ }
+
+ @media(max-width: 480px){
+	
+	#MainPic{
+		max-width: 45%;
+		max-height: 40%;
+	}
+
+	.jumbotron{
+
+		padding-top:15px;
+	}
+
+	#Who{
+		font-size:45px;
+	}
+
+	#info hr{
+		width:200px;
+	}
+	
+ }
+
+
+
+
+				
